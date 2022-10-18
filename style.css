@@ -1,0 +1,47 @@
+.heading
+{
+    width: 100%;
+    text-align:center;
+}
+
+.heading h3 
+{
+display: inline;
+}
+
+body 
+{
+background-size:cover;
+text-align: center;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+h4
+{
+background-color: pink; 
+line-height:4 ;
+margin:0px
+}
+
+.modal-dialogue
+{
+    width:90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width:45%;
+}
+
+video 
+{
+background: url('nintendo-switch-handheld.png');
+background-size:cover;
+background-position: center;
+padding: 100px;
+}
